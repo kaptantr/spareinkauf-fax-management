@@ -1,2 +1,2 @@
 # spareinkauf-fax-management
-spareinkauf-fax-management
+Laravel spareinkauf-fax-management
